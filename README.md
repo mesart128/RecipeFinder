@@ -23,13 +23,13 @@ You hit "Cook This" — and moments later, your groceries are on their way.
 No searching, no lists, no forgetting the basil. Just tap and go.
 
 🛠️ Tech Stack
-Frontend: React / Vue / [Your Choice]
+Frontend: React
 
-Backend: Node.js / Python / [Your Choice]
+Backend: Node.js
 
-NLP / AI: Ingredient parsing & mapping engine
+NLP / AI: Ingredient parsing & mapping engine, Personalized nutrition plan
 
-Integration: Store APIs (Instacart, Amazon Fresh, local grocers)
+Integration: Store APIs
 
 📦 Installation
 bash
